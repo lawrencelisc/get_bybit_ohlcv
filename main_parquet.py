@@ -29,7 +29,7 @@ def scheduler():
 
 if __name__ == '__main__':
     logger.info('Starting DataCenter 1M fetching scheduler')
-    schedule.every().minute.at(':40').do(scheduler)
+    schedule.every().minute.at(':26').do(scheduler)
 
     try:
         scheduler()
