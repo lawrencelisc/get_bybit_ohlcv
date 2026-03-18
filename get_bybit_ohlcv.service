@@ -4,7 +4,7 @@ Description=algoB1_get_bybit(split)
 [Service]
 Type=simple
 WorkingDirectory=/usr/local/app/get_bybit_ohlcv
-ExecStart=/usr/local/app/get_bybit_ohlcv/venv/bin/python3.12 main.py
+ExecStart=/usr/local/app/get_bybit_ohlcv/venv/bin/python3.12 main_parquet.py
 StandardOutput=syslog
 Restart=always
 RestartSec=2
