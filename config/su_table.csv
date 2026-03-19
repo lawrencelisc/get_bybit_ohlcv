@@ -7,7 +7,7 @@ name,symbol,endpt_col,strat,mode,short_rol,long_rol,rol,thres,num_std,exit_thres
 0F_market_price_usd_ohlc,DOGE,,,,,,,,,,,,,
 0G_market_price_usd_ohlc,XRP,,,,,,,,,,,,,
 0H_market_price_usd_ohlc,1000PEPE,,,,,,,,,,,,,
-0J_market_price_usd_ohlc,1000SHIB,,,,,,,,,,,,,
+0J_market_price_usd_ohlc,SHIB1000,,,,,,,,,,,,,
 0K_market_price_usd_ohlc,APT,,,,,,,,,,,,,
 0L_market_price_usd_ohlc,LINK,,,,,,,,,,,,,
 0M_market_price_usd_ohlc,AVAX,,,,,,,,,,,,,
